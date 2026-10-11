@@ -8,7 +8,7 @@
         <version>4.1.1</version>
         <relativePath/>
     </parent>
-    <groupId>pe.edu.cibertec</groupId>
+    <groupId>com.cibertec</groupId>
     <artifactId>solicitud-service-grupo07</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>solicitud-service-grupo07</name>
